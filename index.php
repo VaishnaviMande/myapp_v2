@@ -1,1 +1,1 @@
-Hello from myapp version 2
+Hello from myapp 2
